@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\bin\Debug\net8.0\LTUinl1capp.exe
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\bin\Debug\net8.0\LTUinl1capp.deps.json
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\bin\Debug\net8.0\LTUinl1capp.runtimeconfig.json
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\bin\Debug\net8.0\LTUinl1capp.dll
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\bin\Debug\net8.0\LTUinl1capp.pdb
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\obj\Debug\net8.0\LTUinl1capp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\obj\Debug\net8.0\LTUinl1capp.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\obj\Debug\net8.0\LTUinl1capp.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\obj\Debug\net8.0\LTUinl1capp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\obj\Debug\net8.0\LTUinl1capp.dll
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\obj\Debug\net8.0\refint\LTUinl1capp.dll
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\obj\Debug\net8.0\LTUinl1capp.pdb
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\obj\Debug\net8.0\LTUinl1capp.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl1capp\obj\Debug\net8.0\ref\LTUinl1capp.dll
